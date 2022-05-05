@@ -75,4 +75,26 @@
     font-weight: 700;
     color: #212d65 !important;    
   }
+
+
+ .btn-outline-primary {
+  color: #212d65 !important;  
+  border-color: #212d65 !important;
+ }
+
+ .btn-outline-primary:hover {
+  color: #212d65 !important;  
+  border-color: #212d65 !important;
+  background-color: #e6007e !important;
+ }
+
+
+  @media (max-width: 767.98px) {
+
+
+    #logo_div {
+      display: block !important;
+    }
+
+  }
  
