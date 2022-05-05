@@ -6,7 +6,7 @@
     color: #212d65 !important;
     font-size: 28px;
     font-family: 'Be Vietnam Pro', sans-serif;
-    font-style: italic;
+    font-style: italic !important;
     text-transform: none !important;
     font-weight: 700;
   }
